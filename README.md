@@ -1,4 +1,4 @@
-#  👉  Chat app
+#  👉  Chat application 
 
 
 ## 👉 Indroduction 
