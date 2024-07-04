@@ -3,7 +3,7 @@
 
 ## 👉 Indroduction 
 
-**Welcome to our chat app! It's designed to make communication effortless and enjoyable. Whether you're connecting with friends, family, or colleagues, our app provides a seamless experience with features like instant messaging, group chats, file sharing, and more. Dive in and start chatting**.
+**Welcome to our chat app! It's designed to make communication effortless and enjoyable. Whether you're connecting with friends, family, or colleagues. our app provides a seamless experience with features like instant messaging, group chats, file sharing, and more. Dive in and start chatting**
 
 
 ## ✍️Technologies
